@@ -1,0 +1,15 @@
+.Result {
+  margin: 30px 10%;
+  width: 80%;
+  border: 1px solid #d8d8d8;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.result__inner {
+  height: 400px;
+  overflow-y: scroll;
+}
+.result__inner > p  {
+ padding: 0px 10px;
+}

@@ -1,0 +1,35 @@
+
+.Body {
+  height: 100vh;
+  /* background-color: #131517; */
+  /* color: #0A0E21; */
+  /* color: #1D1E33; */
+}
+.Feature__Containers {
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+  padding: 0px 10%;
+}
+
+.Input__Field {
+  margin: 1rem auto;
+  padding: 0px 10%;
+}
+
+.input__container {
+  display: flex;
+  /* justify-content: space-between; */
+}
+
+.submit__button {
+  height: 100%;
+}
+.button__container {
+  padding-top: 8px;
+  height: 55px;
+}
+
+.Result__Containers {
+  padding-bottom: 10px;
+}
